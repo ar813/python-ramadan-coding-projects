@@ -51,16 +51,28 @@ Here are the basic commands you'll need:
    python todo.py
    ```
 
+   ```sh
+   uv run python todo.py
+   ```
+
 2. **Add a task**
 
    ```sh
    python todo.py add "Buy groceries"
    ```
 
+   ```sh
+   uv run python todo.py add "Buy groceries"
+   ```
+
 3. **See your tasks**
 
    ```sh
    python todo.py list
+   ```
+
+   ```sh
+   uv run python todo.py list
    ```
 
    You'll see something like:
@@ -78,6 +90,10 @@ Here are the basic commands you'll need:
    python todo.py complete 1
    ```
 
+   ```sh
+   uv run python todo.py complete 1
+   ```
+
    (Replace 1 with your task's number)
 
 5. **Delete a task**
@@ -86,7 +102,32 @@ Here are the basic commands you'll need:
    python todo.py remove 1
    ```
 
+   ```sh
+   uv run python todo.py remove 1
+   ```
+
    (Replace 1 with your task's number)
+
+## Difference Between `uv run python todo.py` and `python todo.py`
+
+Both commands are used to run the application, but there are key differences:
+
+### `python todo.py`
+
+- Runs the `todo.py` script using the system's Python installation.
+- If you have multiple versions of Python installed, it might use the wrong one.
+- It may not work if the required libraries (like Click) are not installed in the global Python environment.
+
+### `uv run python todo.py`
+
+- Runs the script inside a virtual environment managed by `uv`.
+- Ensures that the correct dependencies (like Click) are available.
+- Helps avoid conflicts between different projects with different dependencies.
+
+### When to Use Which?
+
+- Use `python todo.py` if everything is installed globally and working fine.
+- Use `uv run python todo.py` if you're working inside a virtual environment and want to avoid dependency issues.
 
 ## Need Help?
 
