@@ -21,8 +21,8 @@ In this series, I am integrating **Sir Asharib Ali's Ramadan Coding Nights Chall
 
 ## Project List (Updated Daily)
 
-1. ✅ [**Todo List Manager** 📝](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Todo%20List%20Manager)
-2. 📌 **Coming Soon...**
+1. ✅ [**Todo List Manager**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Todo%20List%20Manager)
+2. ✅ [**Unit Convertor**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Unit%20Converter)
 3. 📌 **Coming Soon...**
 4. 📌 **Coming Soon...**
 
