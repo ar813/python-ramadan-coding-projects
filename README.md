@@ -24,7 +24,7 @@ In this series, I am integrating **Sir Asharib Ali's Ramadan Coding Nights Chall
 1. ✅ [**Todo List Manager**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Todo%20List%20Manager)
 2. ✅ [**Unit Convertor**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Unit%20Converter)
 3. ✅ [**Password Generator**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Password%20Generator)
-4. 📌 **Coming Soon...**
+4. ✅ [**Simple APIs**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/4_Simple%20APIs)
 5. 📌 **Coming Soon...**
 
 ## Note
