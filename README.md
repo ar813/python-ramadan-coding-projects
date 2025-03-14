@@ -25,7 +25,9 @@ In this series, I am integrating **Sir Asharib Ali's Ramadan Coding Nights Chall
 2. ✅ [**Unit Convertor**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Unit%20Converter)
 3. ✅ [**Password Generator**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/Password%20Generator)
 4. ✅ [**Simple APIs**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/4_Simple%20APIs)
-5. 📌 **Coming Soon...**
+5. ✅ [**Money Making Machine**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/5_Money%20Making%20Machine)
+6. ✅ [**Time Zone App**](https://github.com/ar813/python-ramadan-coding-projects/tree/main/6_Time%20Zone%20App)
+7. 📌 Comming Soon...
 
 ## Note
 
